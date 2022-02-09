@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kirill/Desktop/projects/starter-kit/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
+            "outputFile": "/Users/kirill/Desktop/projects/ar-test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
             "map": [
                 {
                     "source": "/Users/kirill/.gradle/caches/transforms-3/384a804ddf61add8f1298a3b8f500b71/transformed/core-1.1.0/res/values-lv/values-lv.xml",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/kirill/Desktop/projects/starter-kit/node_modules/@viro-community/react-viro/android/arcore_client/build/.transforms/21a7d8cc0eb872990a49b7f156e01118/transformed/jetified-core-1.26.0/res/values-lv/values.xml",
+                    "source": "/Users/kirill/Desktop/projects/ar-test/node_modules/@viro-community/react-viro/android/arcore_client/build/.transforms/3a04d5e0fd530e6f6ea872f863a52b04/transformed/jetified-core-1.26.0/res/values-lv/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/kirill/Desktop/projects/starter-kit/node_modules/@viro-community/react-viro/android/gvr_common/build/.transforms/de6ff05ee252beb76ccff8bf2c52bc74/transformed/jetified-sdk-common-1.180.0/res/values-lv/values.xml",
+                    "source": "/Users/kirill/Desktop/projects/ar-test/node_modules/@viro-community/react-viro/android/gvr_common/build/.transforms/d876399b5594d8c8220b187721f8a75c/transformed/jetified-sdk-common-1.180.0/res/values-lv/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kirill/Desktop/projects/starter-kit/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
+            "outputFile": "/Users/kirill/Desktop/projects/ar-test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
             "map": [
                 {
                     "source": "/Users/kirill/.gradle/caches/transforms-3/384a804ddf61add8f1298a3b8f500b71/transformed/core-1.1.0/res/values-mr/values-mr.xml",

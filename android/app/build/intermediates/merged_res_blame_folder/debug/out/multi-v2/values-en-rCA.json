@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kirill/Desktop/projects/starter-kit/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "/Users/kirill/Desktop/projects/ar-test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
             "map": [
-                {
-                    "source": "/Users/kirill/Desktop/projects/starter-kit/node_modules/@viro-community/react-viro/android/arcore_client/build/.transforms/21a7d8cc0eb872990a49b7f156e01118/transformed/jetified-core-1.26.0/res/values-en-rCA/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "0,0,0,0,0",
-                        "startOffsets": "194,241,292,414,536",
-                        "endColumns": "46,50,121,121,83",
-                        "endOffsets": "240,291,413,535,619"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "105,156,211,337,463",
-                        "endColumns": "50,54,125,125,87",
-                        "endOffsets": "151,206,332,458,546"
-                    }
-                },
                 {
                     "source": "/Users/kirill/.gradle/caches/transforms-3/384a804ddf61add8f1298a3b8f500b71/transformed/core-1.1.0/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
@@ -35,6 +18,23 @@
                         "startOffsets": "3292",
                         "endColumns": "100",
                         "endOffsets": "3388"
+                    }
+                },
+                {
+                    "source": "/Users/kirill/Desktop/projects/ar-test/node_modules/@viro-community/react-viro/android/arcore_client/build/.transforms/3a04d5e0fd530e6f6ea872f863a52b04/transformed/jetified-core-1.26.0/res/values-en-rCA/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "194,241,292,414,536",
+                        "endColumns": "46,50,121,121,83",
+                        "endOffsets": "240,291,413,535,619"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,156,211,337,463",
+                        "endColumns": "50,54,125,125,87",
+                        "endOffsets": "151,206,332,458,546"
                     }
                 },
                 {

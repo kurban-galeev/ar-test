@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kirill/Desktop/projects/starter-kit/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml",
+            "outputFile": "/Users/kirill/Desktop/projects/ar-test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml",
             "map": [
                 {
-                    "source": "/Users/kirill/Desktop/projects/starter-kit/node_modules/@viro-community/react-viro/android/gvr_common/build/.transforms/de6ff05ee252beb76ccff8bf2c52bc74/transformed/jetified-sdk-common-1.180.0/res/values-sl/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "174,236,283,336,413,586,710,762,838,918,1000,1055,1244,1443,1512,1590,1681,1782,1881,1952,1997,2051",
-                        "endColumns": "61,46,52,76,172,123,51,75,79,81,54,188,198,68,77,90,100,98,70,44,53,65",
-                        "endOffsets": "235,282,335,412,585,709,761,837,917,999,1054,1243,1442,1511,1589,1680,1781,1880,1951,1996,2050,2116"
-                    },
-                    "to": {
-                        "startLines": "34,35,36,37,38,39,40,41,42,43,44,45,46,58,59,60,61,62,64,65,67,68",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3317,3383,3434,3491,3572,3749,3877,3933,4013,4097,4183,4242,4435,5815,5888,5970,6065,6170,6356,6431,6581,6639",
-                        "endColumns": "65,50,56,80,176,127,55,79,83,85,58,192,202,72,81,94,104,102,74,48,57,69",
-                        "endOffsets": "3378,3429,3486,3567,3744,3872,3928,4008,4092,4178,4237,4430,4633,5883,5965,6060,6165,6268,6426,6475,6634,6704"
-                    }
-                },
-                {
-                    "source": "/Users/kirill/Desktop/projects/starter-kit/node_modules/@viro-community/react-viro/android/arcore_client/build/.transforms/21a7d8cc0eb872990a49b7f156e01118/transformed/jetified-core-1.26.0/res/values-sl/values.xml",
+                    "source": "/Users/kirill/Desktop/projects/ar-test/node_modules/@viro-community/react-viro/android/arcore_client/build/.transforms/3a04d5e0fd530e6f6ea872f863a52b04/transformed/jetified-core-1.26.0/res/values-sl/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",
@@ -35,6 +18,23 @@
                         "startOffsets": "105,158,211,346,483",
                         "endColumns": "52,52,134,136,87",
                         "endOffsets": "153,206,341,478,566"
+                    }
+                },
+                {
+                    "source": "/Users/kirill/Desktop/projects/ar-test/node_modules/@viro-community/react-viro/android/gvr_common/build/.transforms/d876399b5594d8c8220b187721f8a75c/transformed/jetified-sdk-common-1.180.0/res/values-sl/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "174,236,283,336,413,586,710,762,838,918,1000,1055,1244,1443,1512,1590,1681,1782,1881,1952,1997,2051",
+                        "endColumns": "61,46,52,76,172,123,51,75,79,81,54,188,198,68,77,90,100,98,70,44,53,65",
+                        "endOffsets": "235,282,335,412,585,709,761,837,917,999,1054,1243,1442,1511,1589,1680,1781,1880,1951,1996,2050,2116"
+                    },
+                    "to": {
+                        "startLines": "34,35,36,37,38,39,40,41,42,43,44,45,46,58,59,60,61,62,64,65,67,68",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3317,3383,3434,3491,3572,3749,3877,3933,4013,4097,4183,4242,4435,5815,5888,5970,6065,6170,6356,6431,6581,6639",
+                        "endColumns": "65,50,56,80,176,127,55,79,83,85,58,192,202,72,81,94,104,102,74,48,57,69",
+                        "endOffsets": "3378,3429,3486,3567,3744,3872,3928,4008,4092,4178,4237,4430,4633,5883,5965,6060,6165,6268,6426,6475,6634,6704"
                     }
                 },
                 {

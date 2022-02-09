@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kirill/Desktop/projects/starter-kit/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml",
+            "outputFile": "/Users/kirill/Desktop/projects/ar-test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml",
             "map": [
                 {
                     "source": "/Users/kirill/.gradle/caches/transforms-3/b6ee113c621498a97df6c47383133712/transformed/jetified-exoplayer-ui-2.7.1/res/values-gl-rES/values-gl-rES.xml",

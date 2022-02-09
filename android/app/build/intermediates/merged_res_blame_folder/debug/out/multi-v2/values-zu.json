@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kirill/Desktop/projects/starter-kit/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
+            "outputFile": "/Users/kirill/Desktop/projects/ar-test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml",
             "map": [
-                {
-                    "source": "/Users/kirill/Desktop/projects/starter-kit/node_modules/@viro-community/react-viro/android/arcore_client/build/.transforms/21a7d8cc0eb872990a49b7f156e01118/transformed/jetified-core-1.26.0/res/values-zu/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8",
-                        "startColumns": "0,0,0,0,0",
-                        "startOffsets": "190,239,289,428,558",
-                        "endColumns": "48,49,138,129,86",
-                        "endOffsets": "238,288,427,557,644"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "105,158,212,355,489",
-                        "endColumns": "52,53,142,133,90",
-                        "endOffsets": "153,207,350,484,575"
-                    }
-                },
                 {
                     "source": "/Users/kirill/.gradle/caches/transforms-3/b6ee113c621498a97df6c47383133712/transformed/jetified-exoplayer-ui-2.7.1/res/values-zu/values-zu.xml",
                     "from": {
@@ -52,6 +35,23 @@
                         "startOffsets": "4498",
                         "endColumns": "100",
                         "endOffsets": "4594"
+                    }
+                },
+                {
+                    "source": "/Users/kirill/Desktop/projects/ar-test/node_modules/@viro-community/react-viro/android/arcore_client/build/.transforms/3a04d5e0fd530e6f6ea872f863a52b04/transformed/jetified-core-1.26.0/res/values-zu/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,239,289,428,558",
+                        "endColumns": "48,49,138,129,86",
+                        "endOffsets": "238,288,427,557,644"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "105,158,212,355,489",
+                        "endColumns": "52,53,142,133,90",
+                        "endOffsets": "153,207,350,484,575"
                     }
                 },
                 {

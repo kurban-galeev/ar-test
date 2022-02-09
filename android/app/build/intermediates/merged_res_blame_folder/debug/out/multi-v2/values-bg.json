@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kirill/Desktop/projects/starter-kit/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml",
+            "outputFile": "/Users/kirill/Desktop/projects/ar-test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml",
             "map": [
                 {
                     "source": "/Users/kirill/.gradle/caches/transforms-3/b6ee113c621498a97df6c47383133712/transformed/jetified-exoplayer-ui-2.7.1/res/values-bg/values-bg.xml",
@@ -38,24 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/kirill/Desktop/projects/starter-kit/node_modules/@viro-community/react-viro/android/gvr_common/build/.transforms/de6ff05ee252beb76ccff8bf2c52bc74/transformed/jetified-sdk-common-1.180.0/res/values-bg/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "174,236,280,333,416,579,697,748,824,904,986,1046,1251,1438,1509,1584,1661,1762,1861,1931,1980,2031",
-                        "endColumns": "61,43,52,82,162,117,50,75,79,81,59,204,186,70,74,76,100,98,69,48,50,69",
-                        "endOffsets": "235,279,332,415,578,696,747,823,903,985,1045,1250,1437,1508,1583,1660,1761,1860,1930,1979,2030,2100"
-                    },
-                    "to": {
-                        "startLines": "34,35,36,37,38,39,40,41,42,43,44,45,46,58,59,60,61,62,64,65,67,68",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3313,3379,3427,3484,3571,3738,3860,3915,3995,4079,4165,4229,4438,5809,5884,5963,6044,6149,6335,6409,6563,6618",
-                        "endColumns": "65,47,56,86,166,121,54,79,83,85,63,208,190,74,78,80,104,102,73,52,54,73",
-                        "endOffsets": "3374,3422,3479,3566,3733,3855,3910,3990,4074,4160,4224,4433,4624,5879,5958,6039,6144,6247,6404,6457,6613,6687"
-                    }
-                },
-                {
-                    "source": "/Users/kirill/Desktop/projects/starter-kit/node_modules/@viro-community/react-viro/android/arcore_client/build/.transforms/21a7d8cc0eb872990a49b7f156e01118/transformed/jetified-core-1.26.0/res/values-bg/values.xml",
+                    "source": "/Users/kirill/Desktop/projects/ar-test/node_modules/@viro-community/react-viro/android/arcore_client/build/.transforms/3a04d5e0fd530e6f6ea872f863a52b04/transformed/jetified-core-1.26.0/res/values-bg/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",
@@ -86,6 +69,23 @@
                         "startOffsets": "564,684,790,895,981,1091,1212,1292,1370,1461,1553,1648,1742,1843,1936,2031,2139,2230,2321,2403,2517,2625,2725,2839,2946,3054,3214,6252",
                         "endColumns": "119,105,104,85,109,120,79,77,90,91,94,93,100,92,94,107,90,90,81,113,107,99,113,106,107,159,98,82",
                         "endOffsets": "679,785,890,976,1086,1207,1287,1365,1456,1548,1643,1737,1838,1931,2026,2134,2225,2316,2398,2512,2620,2720,2834,2941,3049,3209,3308,6330"
+                    }
+                },
+                {
+                    "source": "/Users/kirill/Desktop/projects/ar-test/node_modules/@viro-community/react-viro/android/gvr_common/build/.transforms/d876399b5594d8c8220b187721f8a75c/transformed/jetified-sdk-common-1.180.0/res/values-bg/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "174,236,280,333,416,579,697,748,824,904,986,1046,1251,1438,1509,1584,1661,1762,1861,1931,1980,2031",
+                        "endColumns": "61,43,52,82,162,117,50,75,79,81,59,204,186,70,74,76,100,98,69,48,50,69",
+                        "endOffsets": "235,279,332,415,578,696,747,823,903,985,1045,1250,1437,1508,1583,1660,1761,1860,1930,1979,2030,2100"
+                    },
+                    "to": {
+                        "startLines": "34,35,36,37,38,39,40,41,42,43,44,45,46,58,59,60,61,62,64,65,67,68",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3313,3379,3427,3484,3571,3738,3860,3915,3995,4079,4165,4229,4438,5809,5884,5963,6044,6149,6335,6409,6563,6618",
+                        "endColumns": "65,47,56,86,166,121,54,79,83,85,63,208,190,74,78,80,104,102,73,52,54,73",
+                        "endOffsets": "3374,3422,3479,3566,3733,3855,3910,3990,4074,4160,4224,4433,4624,5879,5958,6039,6144,6247,6404,6457,6613,6687"
                     }
                 }
             ]
